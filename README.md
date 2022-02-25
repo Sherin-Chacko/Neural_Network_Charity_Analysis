@@ -31,8 +31,10 @@ A foundation, Alphabet Soup, wants to predict where to make investments. The goa
 
     Although the target for the model was to be 75% or above, but the best the model could produce was 72.7%.
     
+    <img width="778" alt="Screen Shot 2022-02-25 at 12 16 42 PM" src="https://user-images.githubusercontent.com/91294352/155759081-b83dad3f-fb84-447a-b4ce-1e5a2b133e5c.png">
+    
   * What steps were taken to try and increase model performance?
 
     Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and         changing the number of neurons in each layer.
     
-    <img width="778" alt="Screen Shot 2022-02-25 at 12 16 42 PM" src="https://user-images.githubusercontent.com/91294352/155759081-b83dad3f-fb84-447a-b4ce-1e5a2b133e5c.png">
+    
