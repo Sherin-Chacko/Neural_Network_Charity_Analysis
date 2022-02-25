@@ -37,4 +37,6 @@ A foundation, Alphabet Soup, wants to predict where to make investments. The goa
 
     Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and         changing the number of neurons in each layer.
     
-    
+## 3) SUMMARY:
+The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using various number of neurons and layers. The next step should be to try the random forest classifier as it is less influenced by outliers.
+
