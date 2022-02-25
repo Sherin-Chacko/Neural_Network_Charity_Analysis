@@ -24,6 +24,8 @@ A foundation, Alphabet Soup, wants to predict where to make investments. The goa
   * How many neurons, layers, and activation functions did you select for your neural network model, and why?
   
     In the optimized model, layer 1 started with 110 neurons with a relu activation. For layer 2, it dropped to 80 neurons and continued with the relu activation.       From there, the sigmoid activation seemed to be the better fit for layers 3 (40 neurons) and layer 4 (20 neurons).
+    
+    <img width="1013" alt="Screen Shot 2022-02-25 at 12 12 51 PM" src="https://user-images.githubusercontent.com/91294352/155759059-e5dfe23d-97d6-467e-a761-d561f1b9cc7e.png">
 
   * Was the model able to achieve the target model performance?
 
@@ -32,3 +34,5 @@ A foundation, Alphabet Soup, wants to predict where to make investments. The goa
   * What steps were taken to try and increase model performance?
 
     Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and         changing the number of neurons in each layer.
+    
+    <img width="778" alt="Screen Shot 2022-02-25 at 12 16 42 PM" src="https://user-images.githubusercontent.com/91294352/155759081-b83dad3f-fb84-447a-b4ce-1e5a2b133e5c.png">
